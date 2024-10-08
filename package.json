@@ -2,7 +2,7 @@
   "name": "ecommerce-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<username>.github.io/ecommerce-frontend", // Replace <username> with your GitHub username
+  "homepage": "https://<edwingospel>.github.io/ecommerce-frontend", // Replace <username> with your GitHub username
   "dependencies": {
     "@google-pay/button-react": "^3.1.0",
     "@react-oauth/google": "^0.12.1",
