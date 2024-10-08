@@ -2,7 +2,7 @@
   "name": "ecommerce-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<edwingospel>.github.io/ecommerce-frontend", // Replace <username> with your GitHub username
+  "homepage": "https://<edwingospel>.github.io/ecommerce-frontend", 
   "dependencies": {
     "@google-pay/button-react": "^3.1.0",
     "@react-oauth/google": "^0.12.1",
@@ -12,7 +12,7 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.3",
-    "gh-pages": "^5.0.0" // Add this line
+    "gh-pages": "^5.0.0" 
   },
   "scripts": {
     "start": "react-scripts start",
